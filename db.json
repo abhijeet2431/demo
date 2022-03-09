@@ -2,7 +2,7 @@
   "localdiscovery" : {
 "serverurl": "https://cnsaas.ssdevrd.com",
 "gid": "wmt_ae",
-"un": "wmt_ae_%MODEL%",
+"un": "wmt_a_%MODEL%",
 "pw": "wmt_ae_%MODEL%",
 "deviceModelsMap": {
 "G82":["G8232","G82320"],
