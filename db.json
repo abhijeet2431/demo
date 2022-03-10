@@ -1,6 +1,6 @@
 {
   "localdiscovery" : {
-"serverurl": "https://cnsaas.ssdevrd.com",
+"serverurl": "https://auto14.ssdevrd.com",
 "gid": "wmt_ae",
 "un": "wmt_ae_%MODEL%",
 "pw": "wmt_ae_%MODEL%",
