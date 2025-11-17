@@ -1,7 +1,7 @@
 {
   "localdiscovery" : {
-"serverurl": "https://gwwm2410.ssdevrd.com",
-"gid": "wmt",
+"serverurl": "https://cn8000.eng.ws1uemlabs.com",
+"gid": "relay",
 "un": "wmt_ae_%MODEL%",
 "pw": "wmt_ae_%MODEL%",
 "deviceModelsMap": {
